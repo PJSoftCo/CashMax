@@ -1,6 +1,3 @@
-# CashMax
-Maximize your cashback by knowing 5% categories calendar
-
 IOS: https://apps.apple.com/us/app/cashmax/id1492584280
 
 Android: https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax
