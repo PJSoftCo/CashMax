@@ -1,8 +1,8 @@
 Get the app for IOS and Android here:
 
-IOS: https://apps.apple.com/us/app/cashmax/id1492584280
+[IOS](https://apps.apple.com/us/app/cashmax/id1492584280)
 
-Android: https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax
+[Android](https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax)
 
 Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
 
@@ -36,5 +36,4 @@ By email: pjsoftco@outlook.com
 By visiting this page on our website: https://github.com/PJSoftCo/CashMax
 
 --------------------------------------------------------------------------------------------------------------------------------------
-Terms and Conditions
-https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7
+[Terms and Conditions](https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7)
