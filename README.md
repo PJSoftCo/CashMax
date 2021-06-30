@@ -1,8 +1,6 @@
 Get the app for IOS and Android here:
 
-[IOS](https://apps.apple.com/us/app/cashmax/id1492584280)
-
-[Android](https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax)
+[IOS](https://apps.apple.com/us/app/cashmax/id1492584280) - [Android](https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax)
 
 Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
 
