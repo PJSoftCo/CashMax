@@ -1,3 +1,5 @@
+![Screenshot](https://user-images.githubusercontent.com/4211206/137196314-b4a7448b-708d-461a-bb7c-bb1ea1271f41.jpg)
+
 Get the app for IOS and Android here:
 
 [IOS](https://apps.apple.com/us/app/cashmax/id1492584280) - [Android](https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax)
