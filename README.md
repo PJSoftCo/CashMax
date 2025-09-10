@@ -1,4 +1,4 @@
-Privacy Policy of CashMax
+**Privacy Policy of CashMax**
 
 Privacy Policy
 Effective date: December 27, 2019
