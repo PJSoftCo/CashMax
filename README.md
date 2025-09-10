@@ -1,13 +1,3 @@
-![Screenshot](https://user-images.githubusercontent.com/4211206/137196314-b4a7448b-708d-461a-bb7c-bb1ea1271f41.jpg)
-
-Get the app for IOS and Android here:
-
-[IOS](https://apps.apple.com/us/app/cashmax/id1492584280) - [Android](https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax)
-
-Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
 Privacy Policy of CashMax
 
 Privacy Policy
@@ -35,5 +25,14 @@ By email: pjsoftco@outlook.com
 
 By visiting this page on our website: https://github.com/PJSoftCo/CashMax
 
---------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot](https://user-images.githubusercontent.com/4211206/137196314-b4a7448b-708d-461a-bb7c-bb1ea1271f41.jpg)
+
+Get the app for IOS and Android here:
+
+[IOS](https://apps.apple.com/us/app/cashmax/id1492584280) - [Android](https://play.google.com/store/apps/details?id=com.PJSoftCo.CashMax)
+
+Find "Privacy Policy" & "Terms and Conditions" at the end of this document.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 [Terms and Conditions](https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7)
